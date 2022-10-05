@@ -2,7 +2,7 @@
 
 ## Integrantes 
 
-Especificar os integrantes do grupo e suas funções (Gestão Executiva, Gestão Operacional e Gestão de Marketing).
+Especificar os integrantes do grupo e suas funções: 
 - Felipe ( Gestão de Executiva e Gestão de Marketing);
 - Leni ( Gestão Operacional).
 
